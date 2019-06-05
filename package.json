@@ -10,9 +10,9 @@
 	"engines": {
 		"node": "8.11.2"
 	},
-  "repository": {
-    "type": "git",
-    "url": "https://idontknow/todo.git"
-  }
-  "author": "Tom Fishwick",
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	},
+	"author": "Tom Fishwick"
 }
