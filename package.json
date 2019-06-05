@@ -1,6 +1,11 @@
 {
   "author": "Tom Fishwick",
   "description": "NPM package freecodecamp challenges",
+  "keywords": [
+    "fun",
+    "awesome",
+    "bugridden"
+  ],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
